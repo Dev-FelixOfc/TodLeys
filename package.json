@@ -17,8 +17,7 @@
   "files": [
     "lib/**/*",
     "WAProto/**/*",
-    "engine-requirements.js",
-    "index.cjs"
+    "engine-requirements.js"
   ],
   "scripts": {},
   "dependencies": {
