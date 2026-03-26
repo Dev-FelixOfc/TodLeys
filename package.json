@@ -20,7 +20,7 @@
     "engine-requirements.js"
   ],
   "scripts": {
-    "preinstall": "bun run --smol ./engine-requirements.js"
+    "preinstall": "node ./engine-requirements.js"
   },
   "dependencies": {
     "@cacheable/node-cache": "^1.4.0",
